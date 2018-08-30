@@ -3,10 +3,11 @@ Repositori en el cual se adjuntara la informacion documental del proyecto que se
 
 30/08/2018 : 11:50
 
-  Se crea el repositorio para la administracion de los documentos, se establece la siguiente regla
+  Se crea el repositorio para la administracion de los documentos, se establece las siguientes reglas
 
   - cada persona que realice alguna modificacion, actualizacion o carga de algun documento debera dejarlo por notificado en el documento 
+  - los archivo, como no se pueden editar, seran cargados de una manera versionada {nombreArchivo(version)},{extencion}
   
 30/08/2018 : 13:42
 
-  Se sube documento sobre inicializacion del proyecto, que y quienes trabajaran en el desarrollo
+  - Se sube documento sobre inicializacion del proyecto, que y quienes trabajaran en el desarrollo
