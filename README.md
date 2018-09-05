@@ -11,3 +11,7 @@ Repositori en el cual se adjuntara la informacion documental del proyecto que se
 30/08/2018 : 13:42
 
   - Se sube documento sobre inicializacion del proyecto, que y quienes trabajaran en el desarrollo
+  
+05/09/2018 : 10:36
+
+  Se añade documento en word con respuestas a las preguntas base con el fin de tener material para la presentacion y el documento
