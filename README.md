@@ -15,3 +15,7 @@ Repositori en el cual se adjuntara la informacion documental del proyecto que se
 05/09/2018 : 10:36
 
   Se añade documento en word con respuestas a las preguntas base con el fin de tener material para la presentacion y el documento
+  
+05/09/2018 : 21:12
+
+  Se sube primera verion de la presentacion, pendiente colgar mapa de ruta y linkear el video
